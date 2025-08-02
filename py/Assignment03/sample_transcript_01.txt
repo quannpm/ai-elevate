@@ -1,0 +1,30 @@
+Team Meeting - July 26, 2025
+Attendees: An, Linh, Khoa, My
+
+An: Let's get started. Linh, have you completed the user survey analysis?
+
+Linh: Yes, I have. About 80% of users are satisfied, but many requested an advanced search feature.
+
+Khoa: That feature will require backend support. I’ll start planning development this week.
+
+My: On my side, I’ve finished updating the user guide for the new product version.
+
+An: Great. Next, we need to plan the feature launch event in August. Any suggestions?
+
+Linh: I suggest aiming for around August 15 so we have enough time for marketing.
+
+Khoa: I agree. I’ll check if the system will be ready by then.
+
+My: I’ll start preparing the event content and materials.
+
+An: Excellent. Let’s recap the action items.
+
+Action Items:
+
+Linh to finalize the launch proposal by Thursday.
+
+Khoa to begin planning the advanced search feature development this week.
+
+My to prepare content and materials for the launch event by Friday.
+
+Next meeting: August 2, 2025 at 9:30 AM.

@@ -1,0 +1,20 @@
+Engineering Daily Standup - July 17, 2025
+
+Attendees: Emma, John, Mei, Quan
+
+Emma: Yesterday I completed the logging module refactor and started unit testing.
+
+John: I'm still debugging the API rate limiting issue. I’ll pair with Quan today.
+
+Mei: I finished reviewing PR #483. I’ll start on the caching layer implementation next.
+
+Quan: I noticed a regression in the notification service. I’ll open a bug ticket.
+
+Emma: Reminder: The release branch cuts tomorrow. Please finalize anything going into v2.3.0 today.
+
+Action Items:
+- John and Quan to debug API rate limiting by EOD.
+- Mei to begin caching implementation.
+- All engineers to finalize v2.3.0 changes by tomorrow.
+
+Next standup: July 18, 2025.

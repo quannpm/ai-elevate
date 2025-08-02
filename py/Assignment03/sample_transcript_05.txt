@@ -1,0 +1,20 @@
+Q3 Strategy Review - July 19, 2025
+
+Attendees: CEO (Captain America), CFO (Liam), CPO (Jade), CTO (Raj)
+
+Captain America: Let’s evaluate our Q2 performance. Revenue grew 12%, mostly from the enterprise tier.
+
+Liam: Operating costs are up 5% due to infrastructure scaling.
+
+Jade: Product delivery was on track. We launched three major features.
+
+Raj: Engineering velocity dipped slightly due to onboarding new team members.
+
+Captain America: For Q3, our goal is market expansion. Focus on onboarding partners in Southeast Asia.
+
+Action Items:
+- Liam to analyze cost reduction options.
+- Jade to roadmap Q3 product priorities.
+- Raj to propose an engineering hiring plan.
+
+Next quarterly review: October 15, 2025.

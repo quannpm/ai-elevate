@@ -1,0 +1,38 @@
+============================================================
+User: What are some good conversation starters at networking events? Explain your reasoning step-by-step.
+
+Assistant Response:
+
+Step 1: Consider the context and environment of the event. People are usually open to light, friendly conversation.
+Step 2: Choose open-ended questions that invite sharing, such as:
+- "What brings you to this event?"
+- "How did you get started in your field?"
+- "What are you hoping to learn or achieve here today?"
+Step 3: Avoid overly personal or controversial topics.
+Step 4: Listen actively and build on their responses to keep the conversation flowing.
+
+============================================================
+
+User: How can I overcome nervousness when meeting new people at events? Please explain your reasoning step-by-step.
+
+Assistant Response:
+
+Step 1: Recognize that feeling nervous is normal and many attendees feel the same way.
+Step 2: Prepare a few conversation starters in advance to boost your confidence.
+Step 3: Focus on listening rather than impressing others.
+Step 4: Set small, achievable goals, like introducing yourself to three new people.
+Step 5: Practice deep breathing or positive self-talk before entering the event.
+
+============================================================
+
+User: Suggest ways to follow up after meeting someone at a networking event. Explain your reasoning step-by-step.
+
+Assistant Response:
+
+Step 1: Shortly after the event, send a personalized message referencing your conversation.
+Step 2: Express appreciation for their time and insights.
+Step 3: Offer something of value, such as a relevant article or introduction.
+Step 4: Suggest a specific next step, like a coffee chat or connecting on LinkedIn.
+Step 5: Keep your follow-up concise and genuine.
+
+============================================================

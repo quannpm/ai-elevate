@@ -1,0 +1,392 @@
+Task Description,Generated Work Instructions
+"Install the battery module in the rear compartment, connect to the high-voltage harness, and verify torque on fasteners.","### Work Instructions for Installing the Battery Module
+
+**Task:** Install the battery module in the rear compartment, connect to the high-voltage harness, and verify torque on fasteners.
+
+---
+
+#### Safety Precautions:
+1. **Personal Protective Equipment (PPE):** 
+   - Wear safety glasses to protect your eyes.
+   - Use insulated gloves to prevent electrical shock.
+   - Wear steel-toed boots to protect your feet.
+   - Ensure you are wearing a hard hat if working in a designated area.
+
+2. **High-Voltage Safety:**
+   - Always treat the battery module as a high-voltage component.
+   - Ensure the vehicle is powered off and the high-voltage system is deactivated before starting work.
+   - Use a multimeter to verify that the system is de-energized.
+
+3. **Lifting Safety:**
+   - Use proper lifting techniques or mechanical aids when handling the battery module to avoid injury.
+   - Ensure the area is clear of obstacles before lifting.
+
+---
+
+#### Required Tools:
+1. Torque wrench (calibrated for high-torque applications)
+2. Insulated socket set (appropriate size for fasteners)
+3. Multimeter (for voltage verification)
+4. Safety harness (if working in elevated areas)
+5. Battery module handling equipment (if necessary)
+
+---
+
+#### Work Instructions:
+
+1. **Preparation:**
+   - Ensure the work area is clean and free of debris.
+   - Gather all required tools and PPE before starting the task.
+
+2. **Position the Battery Module:**
+   - Using the battery module handling equipment, carefully lift the battery module and position it over the rear compartment.
+   - Align the module with the mounting points in the compartment.
+
+3. **Install the Battery Module:**
+   - Lower the battery module into place, ensuring it is seated correctly on the mounting points.
+   - Secure the module using the provided fasteners (bolts or screws).
+
+4. **Connect the High-Voltage Harness:**
+   - Locate the high-voltage harness connector.
+   - Align the connector with the battery module’s input port.
+   - Firmly push the connector into place until you hear a click, indicating it is securely connected.
+
+5. **Torque Fasteners:**
+   - Using the torque wrench, apply the specified torque to each fastener securing the battery module. 
+   - Refer to the torque specification sheet for the correct torque values.
+   - Ensure that all fasteners are torqued evenly and to the specified values.
+
+6. **Verify Connections:**
+   - Double-check that the high-voltage harness is securely connected and that there are no loose wires.
+   - Inspect the battery module for any visible damage or misalignment.
+
+7. **Check Voltage:**
+   - Use a multimeter to verify that the battery module is de-energized before proceeding.
+   - Confirm that the voltage reading is within safe limits (0 volts).
+
+8. **Final Inspection:**
+   - Conduct a final visual inspection of the installation to ensure everything is secure and properly connected.
+   - Ensure that all tools are removed from the work area.
+
+9. **Documentation:**
+   - Record the installation in the production log, noting the date, time, and your name.
+   - Report any issues or discrepancies to the supervisor immediately.
+
+---
+
+#### Acceptance Checks:
+- Ensure the battery module is securely mounted with all fasteners torqued to specification.
+- Confirm that the high-voltage harness is properly connected and free of damage.
+- Verify that the voltage reading is 0 volts before proceeding with further assembly.
+- Complete the documentation accurately.
+
+---
+
+**End of Work Instructions**"
+Calibrate the ADAS (Advanced Driver Assistance Systems) radar sensors on the front bumper using factory alignment targets.,"### Work Instructions for Calibrating ADAS Radar Sensors on Front Bumper
+
+**Objective:** Properly calibrate the ADAS radar sensors on the front bumper using factory alignment targets to ensure optimal performance and safety.
+
+---
+
+#### Safety Precautions:
+1. **Personal Protective Equipment (PPE):** Always wear safety glasses, gloves, and steel-toed boots while performing this task.
+2. **Work Area:** Ensure the work area is clean and free of obstructions. Use caution around moving vehicles and equipment.
+3. **Electrical Safety:** Ensure the vehicle is powered off and the key is removed from the ignition before starting the calibration process.
+4. **Avoid Direct Eye Exposure:** Do not look directly into the radar sensor while it is active to prevent eye damage.
+
+---
+
+#### Required Tools:
+1. Factory alignment targets (specific to the vehicle model)
+2. Calibration tool (if applicable)
+3. Torque wrench
+4. Screwdriver set
+5. Leveling tool
+6. Measuring tape
+7. Laptop or diagnostic tool with ADAS calibration software
+8. Safety cones (to mark the calibration area)
+
+---
+
+#### Work Instructions:
+
+1. **Preparation:**
+   - Ensure the vehicle is parked on a level surface.
+   - Set up safety cones around the calibration area to prevent unauthorized access.
+
+2. **Inspect the Vehicle:**
+   - Check the front bumper and radar sensor for any physical damage or obstructions. Report any issues to the supervisor.
+
+3. **Gather Tools and Equipment:**
+   - Collect all required tools and factory alignment targets. Ensure the calibration tool is charged and functioning.
+
+4. **Position the Alignment Targets:**
+   - Place the factory alignment targets at the specified distances from the front bumper as per the vehicle’s service manual. Ensure they are level and securely positioned.
+
+5. **Connect the Diagnostic Tool:**
+   - Connect the laptop or diagnostic tool to the vehicle’s OBD-II port. Turn on the vehicle’s ignition without starting the engine.
+
+6. **Access Calibration Software:**
+   - Open the ADAS calibration software on the diagnostic tool. Follow the prompts to select the appropriate vehicle model.
+
+7. **Initiate Calibration Process:**
+   - Start the calibration process as instructed by the software. Follow on-screen prompts to ensure the radar sensors are aligned with the targets.
+
+8. **Monitor Calibration:**
+   - Observe the calibration progress on the diagnostic tool. Ensure that all required adjustments are made as indicated by the software.
+
+9. **Complete Calibration:**
+   - Once the calibration is complete, the software will provide a confirmation message. Record the calibration results in the vehicle’s service log.
+
+10. **Final Inspection:**
+    - Inspect the radar sensor and alignment targets to ensure everything is secure and properly positioned. Tighten any loose screws using a torque wrench as per specifications.
+
+11. **Test Drive:**
+    - Conduct a test drive to verify that the ADAS features are functioning correctly. Monitor for any warning lights or error messages.
+
+12. **Documentation:**
+    - Document the calibration results, including any adjustments made, in the vehicle’s service record. Ensure all tools are returned to their designated storage areas.
+
+---
+
+#### Acceptance Checks:
+- Ensure that the calibration software indicates successful calibration.
+- Verify that the radar sensor is securely mounted and free of obstructions.
+- Confirm that the vehicle’s ADAS features operate correctly during the test drive.
+- Check that all documentation is complete and accurate.
+
+---
+
+**End of Work Instructions** 
+
+**Note:** If any issues arise during the calibration process, stop work immediately and consult with a supervisor for further instructions."
+Apply anti-corrosion sealant to all exposed welds on the door panels before painting.,"### Work Instructions for Applying Anti-Corrosion Sealant to Door Panels
+
+**Objective:** Apply anti-corrosion sealant to all exposed welds on the door panels before painting to ensure durability and prevent rust.
+
+---
+
+#### Safety Precautions:
+1. **Personal Protective Equipment (PPE):** 
+   - Wear safety goggles to protect your eyes from splashes.
+   - Use gloves to prevent skin contact with sealant.
+   - Wear a respirator mask if working in a poorly ventilated area to avoid inhaling fumes.
+   - Ensure steel-toed boots are worn to protect your feet.
+
+2. **Work Area Safety:**
+   - Keep the work area clean and free of any obstructions.
+   - Ensure proper ventilation in the workspace.
+   - Be aware of your surroundings and report any hazards to your supervisor.
+
+---
+
+#### Required Tools and Materials:
+1. **Tools:**
+   - Paintbrush or applicator (for sealant application)
+   - Air compressor (if needed for cleaning)
+   - Clean rags or paper towels (for cleanup)
+   - Scraper (for removing any old sealant or debris)
+
+2. **Materials:**
+   - Anti-corrosion sealant
+   - Cleaning solvent (if necessary for surface preparation)
+
+---
+
+#### Step-by-Step Instructions:
+
+1. **Preparation:**
+   - Ensure the door panels are clean and free of dust, grease, or any contaminants. Use a cleaning solvent if necessary.
+   - Inspect the door panels for any damage or defects. Report any issues to your supervisor.
+
+2. **Gather Tools and Materials:**
+   - Collect all required tools and materials listed above and place them within easy reach.
+
+3. **Inspect the Welds:**
+   - Carefully examine all exposed welds on the door panels. Ensure that they are accessible and free from any obstructions.
+
+4. **Apply Sealant:**
+   - Dip the paintbrush or applicator into the anti-corrosion sealant.
+   - Starting at one end of the door panel, apply a uniform layer of sealant over each exposed weld. Ensure complete coverage without excess pooling.
+   - Work methodically to cover all welds, moving from one end of the panel to the other.
+
+5. **Check for Coverage:**
+   - After applying the sealant, visually inspect each weld to ensure that it is fully covered. Look for any missed spots or areas that may require additional sealant.
+
+6. **Clean Up:**
+   - Use clean rags or paper towels to wipe any excess sealant from the brush or applicator.
+   - Dispose of any used materials according to your facility’s waste disposal guidelines.
+
+7. **Final Inspection:**
+   - Once the sealant has been applied, conduct a final inspection of the door panels to ensure that all exposed welds are adequately sealed.
+   - Document the completion of the task in the production log, noting any issues encountered during the process.
+
+8. **Report Completion:**
+   - Notify your supervisor that the anti-corrosion sealant application is complete and ready for the next stage of production (painting).
+
+---
+
+#### Acceptance Checks:
+- Ensure that all exposed welds are covered with a uniform layer of sealant.
+- Confirm that there are no missed spots or excess pooling of sealant.
+- Verify that the work area is clean and free of any sealant spills or debris.
+
+By following these instructions, you will help ensure the longevity and quality of the door panels in the production process. Thank you for your attention to detail and commitment to safety!"
+Perform leak test on coolant system after radiator installation. Record pressure readings and verify against specifications.,"### Work Instructions for Performing Leak Test on Coolant System After Radiator Installation
+
+**Objective:** To ensure the integrity of the coolant system by performing a leak test after the installation of the radiator.
+
+---
+
+#### Required Tools and Equipment:
+1. Coolant pressure tester
+2. Safety goggles
+3. Gloves (nitrile or rubber)
+4. Torque wrench (if applicable)
+5. Clean cloth or paper towels
+6. Pressure gauge (if not integrated with the tester)
+7. Recording sheet or digital device for data entry
+
+---
+
+#### Safety Precautions:
+1. Always wear safety goggles and gloves to protect against coolant splashes and potential chemical exposure.
+2. Ensure the engine is cool before starting the leak test to avoid burns from hot components.
+3. Be cautious of sharp edges around the radiator and surrounding components.
+4. Dispose of any coolant spills immediately and according to local regulations.
+5. Ensure the work area is clean and free of obstructions to prevent slips and falls.
+
+---
+
+#### Step-by-Step Instructions:
+
+1. **Preparation:**
+   - Ensure the vehicle is parked on a level surface and the engine is completely cool.
+   - Gather all required tools and equipment.
+
+2. **Visual Inspection:**
+   - Inspect the radiator and surrounding hoses for any visible signs of damage or improper installation.
+   - Check that all clamps and connections are secure.
+
+3. **Connect Pressure Tester:**
+   - Remove the radiator cap carefully to avoid any residual pressure.
+   - Attach the coolant pressure tester to the radiator neck securely.
+
+4. **Pressurize the System:**
+   - Use the pressure tester to apply pressure to the coolant system. Set the tester to the manufacturer’s specified pressure (usually between 13-16 psi, but verify with specifications).
+   - Hold the pressure for 10-15 minutes.
+
+5. **Monitor Pressure:**
+   - Observe the pressure gauge during the test. Record the initial pressure reading on the recording sheet.
+   - After the holding period, check the gauge again to see if the pressure has dropped.
+
+6. **Leak Detection:**
+   - If the pressure has dropped, inspect the radiator, hoses, and connections for any signs of coolant leakage.
+   - Use a clean cloth or paper towel to wipe around connections and check for wetness or coolant residue.
+
+7. **Record Findings:**
+   - Document the initial and final pressure readings on the recording sheet.
+   - Note any leaks found during the inspection and the location of the leak.
+
+8. **Acceptance Check:**
+   - If the pressure remains stable (no more than a 1 psi drop), the coolant system passes the leak test.
+   - If there is a significant drop in pressure, the system fails the test, and repairs must be made before proceeding.
+
+9. **Final Steps:**
+   - If the test is successful, carefully remove the pressure tester and replace the radiator cap securely.
+   - Clean up any spills and dispose of any waste materials according to safety regulations.
+   - Report the test results to the supervisor and file the recording sheet in the designated area.
+
+10. **Completion:**
+    - Ensure all tools are returned to their proper locations.
+    - Wash hands thoroughly after completing the task.
+
+---
+
+**Note:** Always refer to the specific vehicle service manual for any model-specific procedures or specifications."
+Program the infotainment ECU with the latest software package and validate connectivity with dashboard display.,"### Work Instructions for Programming the Infotainment ECU and Validating Connectivity
+
+**Task:** Program the infotainment ECU with the latest software package and validate connectivity with the dashboard display.
+
+---
+
+#### Safety Precautions:
+1. **Personal Protective Equipment (PPE):** Always wear safety glasses and gloves while working.
+2. **Static Electricity:** Use an anti-static wrist strap to prevent damage to electronic components.
+3. **Work Area:** Ensure the work area is clean and free of any hazards. Keep liquids away from electronic components.
+4. **Electrical Safety:** Ensure the vehicle is turned off and the key is removed from the ignition before starting the task.
+
+---
+
+#### Required Tools:
+1. **Laptop with Programming Software** (specific to the infotainment ECU)
+2. **OBD-II Connector Cable**
+3. **Anti-static Wrist Strap**
+4. **Screwdriver Set** (if ECU access requires removal)
+5. **Multimeter** (for connectivity checks)
+6. **Flash Drive** (with the latest software package)
+
+---
+
+#### Work Instructions:
+
+1. **Preparation:**
+   - Ensure you have the latest software package downloaded onto the flash drive.
+   - Verify that the laptop is charged and has the necessary programming software installed.
+
+2. **Set Up Workstation:**
+   - Connect the anti-static wrist strap to your wrist and a grounded surface.
+   - Place the laptop and flash drive within easy reach.
+
+3. **Access the Infotainment ECU:**
+   - If necessary, use the screwdriver set to remove any panels or covers to access the infotainment ECU.
+   - Locate the ECU, typically found behind the dashboard or center console.
+
+4. **Connect the Laptop:**
+   - Plug the OBD-II connector cable into the vehicle’s OBD-II port.
+   - Connect the other end of the OBD-II cable to the laptop.
+
+5. **Power On the Vehicle:**
+   - Insert the key into the ignition and turn it to the ""ON"" position without starting the engine. This powers the ECU.
+
+6. **Launch Programming Software:**
+   - Open the programming software on the laptop.
+   - Select the appropriate vehicle model and ECU type from the software interface.
+
+7. **Load Software Package:**
+   - Navigate to the option to upload or program the ECU.
+   - Select the software package from the flash drive and initiate the upload process.
+   - Follow on-screen prompts to complete the programming.
+
+8. **Monitor Programming Process:**
+   - Observe the progress bar and ensure that the programming completes without errors.
+   - If an error occurs, refer to the software troubleshooting guide.
+
+9. **Disconnect and Power Down:**
+   - Once programming is complete, safely disconnect the OBD-II cable from the vehicle and laptop.
+   - Turn off the vehicle and remove the key from the ignition.
+
+10. **Validate Connectivity:**
+    - Reconnect the OBD-II cable and power on the vehicle again.
+    - Use the programming software to run a connectivity test between the infotainment ECU and the dashboard display.
+    - Confirm that all functions (audio, navigation, etc.) are operational.
+
+11. **Acceptance Checks:**
+    - Verify that the software version displayed on the infotainment system matches the latest version uploaded.
+    - Check that all dashboard display functions are responsive and working correctly.
+    - Document any issues encountered during the process and report them to the supervisor.
+
+12. **Reassemble Vehicle Components:**
+    - If any panels or covers were removed, carefully reattach them using the screwdriver set.
+    - Ensure that all tools are accounted for and the work area is clean.
+
+13. **Final Inspection:**
+    - Conduct a final inspection of the vehicle to ensure all components are secure and functioning.
+    - Sign off on the task completion sheet and submit it to the supervisor.
+
+---
+
+**End of Work Instructions** 
+
+**Note:** Always refer to the specific vehicle service manual for any model-specific instructions or additional safety precautions."

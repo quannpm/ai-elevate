@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "completed": true,
+    "due_date": "2025-07-17",
+    "priority": "High"
+  },
+  {
+    "id": 3,
+    "description": "Submit assignment",
+    "completed": true,
+    "due_date": "2025-07-10",
+    "priority": "Medium"
+  },
+  {
+    "id": 4,
+    "description": "Call dentist",
+    "completed": false,
+    "due_date": "",
+    "priority": "Low"
+  },
+  {
+    "id": 5,
+    "description": "asdsa",
+    "completed": false,
+    "due_date": "2025-07-15",
+    "priority": "High"
+  },
+  {
+    "id": 6,
+    "description": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "description": "Walk the dog",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "description": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "description": "Walk the dog",
+    "completed": false
+  }
+]
