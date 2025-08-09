@@ -1,0 +1,32 @@
+# Core libraries
+numpy
+pandas
+
+# Linting & code quality
+flake8
+black
+isort
+pylint
+
+# Security scanning
+bandit
+safety
+
+# JSON & YAML parsing
+PyYAML
+jsonschema
+
+# Web framework (nếu cần cho UI)
+fastapi
+uvicorn
+
+# AI & NLP support
+openai
+transformers
+azure-ai-openai
+chromadb
+python-dotenv
+
+# Testing
+pytest
+pytest-cov

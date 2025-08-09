@@ -8,7 +8,7 @@ from tenacity import retry, wait_random_exponential, stop_after_attempt, retry_i
 # Configure Azure OpenAI Client
 client = openai.OpenAI(
     base_url="https://aiportalapi.stu-platform.live/jpe",
-    api_key="sk-89XCTFT0--byUic6zSnFTw"
+    api_key=os.getenv("AZURE_OPENAI_API_KEY")
 )
 
 # Function schema for function calling

@@ -43,7 +43,7 @@ def initial_classify(text):
 # Step 3: OpenAI Client
 client = openai.OpenAI(
     base_url="https://aiportalapi.stu-platform.live/jpe",
-    api_key="sk-89XCTFT0--byUic6zSnFTw"
+    api_key=os.getenv("AZURE_OPENAI_API_KEY")
 )
 
 # Step 4: GPT-Based Refinement Layer
