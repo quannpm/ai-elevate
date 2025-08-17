@@ -1,0 +1,63 @@
+LangChainDeprecationWarning: The class `TavilySearchResults` was deprecated in LangChain 0.3.25 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-tavily package and should be used instead. To use it run `pip install -U :class:`~langchain-tavily` and import as `from :class:`~langchain_tavily import TavilySearch``.
+  tavily_tool = TavilySearchResults(max_results=5)
+
+=== Query: What is the weather in Birmingham, UK today? ===
+Weather data for Birmingham, UK today:
+In Birmingham, UK today, the current weather is as follows:
+Detailed status: scattered clouds
+Wind speed: 1.61 m/s, direction: 24°
+Humidity: 63%
+Temperature:
+  - Current: 27.87°C
+  - High: 27.87°C
+  - Low: 27.87°C
+  - Feels like: 29.59°C
+Rain: {}
+Heat index: None
+Cloud cover: 32%
+
+=== Query: Search latest news about AI in healthcare. ===
+Here’s what’s new and trending with AI in healthcare, based on recent coverage:
+
+- Ambient clinical documentation is moving mainstream. Microsoft announced Dragon Copilot to listen to clinician–patient visits and draft notes; Google is rolling out health‑tailored AI models to cut admin burden (weforum.org).
+- 2025 is shifting from pilots to practical adoption. Health systems are showing more risk tolerance but demanding clear ROI (efficiency, cost savings) and real business value from vendors (healthtechmagazine.net).
+- Generative AI interest is broadening across clinical and administrative workflows, with leaders preparing implementation roadmaps and governance (healthtechmagazine.net).
+- Security and workforce readiness are top of mind. Guidance on AI security and stronger cybersecurity training for staff are rising priorities alongside deployment (healthtechmagazine.net).
+- In clinics, “ambient documentation” tools are expected to capture visits in real time, summarize, and even suggest diagnoses/treatments for clinician review (news.harvard.edu).
+- Medical education is embracing AI: new courses, a Ph.D. track in AI in medicine, planned tutor bots, and virtual patients for simulation at Harvard (news.harvard.edu).
+- Thought leaders warn that without bold, patient‑centered priorities, the AI “revolution” could stall into incremental tweaks (news.harvard.edu).
+- Organizational adoption hinges on change management: clinicians are wary from past tech disappointments, but well‑applied AI can genuinely augment workflows across roles (learn.hms.harvard.edu).
+
+Sources:
+- https://www.weforum.org/stories/2025/08/ai-transforming-global-health/
+- https://healthtechmagazine.net/article/2025/01/overview-2025-ai-trends-healthcare
+- https://news.harvard.edu/gazette/story/2025/03/how-ai-is-transforming-medicine-healthcare/
+- https://learn.hms.harvard.edu/insights/all-insights/how-emerging-trends-ai-are-shaping-future-health-care-quality-and-safety
+
+=== Query: What's the weather in Birmingham, UK and give clothing advice. ===
+Weather data for Birmingham, UK and give clothing advice:
+In Birmingham, UK and give clothing advice, the current weather is as follows:
+Detailed status: scattered clouds
+Wind speed: 1.61 m/s, direction: 24°
+Humidity: 63%
+Temperature:
+  - Current: 27.87°C
+  - High: 27.87°C
+  - Low: 27.87°C
+  - Feels like: 29.59°C
+Rain: {}
+Heat index: None
+Cloud cover: 32%
+
+=== Query: Tell me temperature in Tokyo now. ===
+Weather fetch failed (Tell me temperature in Tokyo now.): Unable to find the resource
+
+=== Query: Find recent breakthroughs in quantum computing. ===
+Here are some of the most notable recent breakthroughs and trends in quantum computing:
+
+- First operating system for quantum networks (QNodeOS): Researchers unveiled QNodeOS, designed to manage, schedule, and orchestrate tasks across quantum network nodes—a key step toward a functional quantum internet (Mar 2025, https://www.sciencedaily.com/news/computers_math/quantum_computers/).
+- Longer-lived superconducting qubits: NIST and the SQMS Center report systematic nanofabrication and materials advances that improve qubit coherence, pushing best-performing devices to higher stability and fidelity—crucial for scaling and error correction (Apr 2025, https://www.nist.gov/news-events/news/2025/04/quantum-breakthroughs-nist-sqms-lead-way).
+- Stronger quantum communication: Recent work highlights improved methods for secure quantum data transmission (e.g., more robust QKD and networking techniques), tightening the link between lab demos and deployable quantum networks (https://www.wevolver.com/article/breakthroughs-in-quantum-computing).
+- Better control of quantum vibrations in solids: New laser-based techniques cool crystal vibrations (phonons) to their quantum ground state, advancing quantum transducers and interfaces that connect different types of qubits and sensors (https://phys.org/tags/quantum+computing/).
+
+For continuing updates and additional breakthroughs (e.g., device physics, algorithms, and error-correction milestones), scan the ongoing research feeds and features aggregated at Phys.org’s quantum computing tag (https://phys.org/tags/quantum+computing/).
