@@ -1,0 +1,5 @@
+Assignment 13 - Resume Generation Outputs
+
+Sample 1: Nguyen Quan -> /mnt/data/assignment13_outputs/resume_sample_1_Nguyen_Quan.txt
+Sample 2: Tran Thi B -> /mnt/data/assignment13_outputs/resume_sample_2_Tran_Thi_B.txt
+Sample 3: Alex Smith -> /mnt/data/assignment13_outputs/resume_sample_3_Alex_Smith.txt

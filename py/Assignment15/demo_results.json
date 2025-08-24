@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Can I return a Walmart bicycle if I've ridden it outdoors?",
+    "context": "Bicycles purchased at Walmart can be returned within 90 days if not used outdoors and with all accessories present.\nWalmart reserves the right to deny returns suspected of fraud or abuse.\nWalmart customers may return electronics within 30 days with a receipt and original packaging.",
+    "answer": "No, you cannot return a Walmart bicycle if you have ridden it outdoors. According to Walmart's return policy, bicycles can only be returned within 90 days if they have not been used outdoors and all accessories are present."
+  },
+  {
+    "question": "What is the return window for electronics purchased at Walmart?",
+    "context": "Walmart customers may return electronics within 30 days with a receipt and original packaging.\nOpen-box items are eligible for return at Walmart within the standard return period, but must include all original accessories.\nSeasonal merchandise at Walmart (e.g., holiday decorations) may have modified return windows, see in-store signage.",
+    "answer": "The return window for electronics purchased at Walmart is 30 days, provided you have the receipt and the original packaging."
+  },
+  {
+    "question": "Can I return prescription medications?",
+    "context": "Prescription medications purchased at Walmart are not eligible for return or exchange.\nWalmart Vision Center purchases may be returned or exchanged within 60 days with a receipt.\nOpen-box items are eligible for return at Walmart within the standard return period, but must include all original accessories.",
+    "answer": "No, prescription medications purchased at Walmart are not eligible for return or exchange."
+  },
+  {
+    "question": "How does Walmart handle returns without a receipt?",
+    "context": "If a Walmart customer does not have a receipt, most returns are eligible for store credit with valid photo identification.\nWalmart reserves the right to deny returns suspected of fraud or abuse.\nFor online Walmart orders, customers can return items in store or by mail using the prepaid label.",
+    "answer": "Walmart allows returns without a receipt for most items, and customers can receive store credit as long as they provide valid photo identification. However, Walmart reserves the right to deny returns that are suspected of fraud or abuse. If the items were purchased online, customers have the option to return them either in-store or by mail using a prepaid label."
+  }
+]
